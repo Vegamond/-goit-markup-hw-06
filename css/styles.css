@@ -348,7 +348,7 @@ a {
     border: 1px solid var(--accent-color);
 }
 
-.form__input:focus+.form-icon {
+.form__input:focus+.form__icon {
     fill: var(--accent-color);
 }
 
